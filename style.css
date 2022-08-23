@@ -1,0 +1,64 @@
+.test{
+    height:200px;
+    width:200px;
+}
+.text-center {
+    text-align: center;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: black;
+    padding: 6px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+input[type=number] {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+input[type=text] {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+body {
+    color: white;
+}
+body {
+    background-image: url('https://static01.nyt.com/images/2022/04/04/multimedia/08AI-GAMBLING1-GIF/08AI-GAMBLING1-GIF-mobileMasterAt3x.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
